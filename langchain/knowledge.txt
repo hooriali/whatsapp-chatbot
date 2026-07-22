@@ -1,0 +1,20 @@
+The AI Season bootcamp runs live sessions every week covering practical AI engineering.
+Session 5 covered multimodal agents: vision, audio, video, OCR, and documents, using the Gemini API.
+Session 6 covers LangChain: prompts, chains, memory, tools, agents, and RAG, using the Groq API.
+Students must bring their own laptop with Python 3.10 or newer installed.
+Assignments are submitted by pushing code to each student's own GitHub repository.
+The instructor's office hours are on Sunday evenings for anyone stuck on an assignment.
+There is no final exam — the bootcamp is graded entirely on session projects.
+Free API keys are used throughout so no student has to pay for compute.
+The bootcamp is fully remote and all sessions are recorded for later viewing.
+Late assignment submissions are accepted up to 3 days after the deadline with a small grade penalty.
+The bootcamp certificate is issued only after all session projects are submitted and reviewed.
+Students can ask questions anytime in the bootcamp's WhatsApp community group.
+The final capstone project must combine at least two topics from different sessions, such as RAG and agents.
+Groq's free tier gives generous rate limits but can return a 429 error if you send requests too quickly.
+The recommended code editor for the bootcamp is VS Code with the Python and ESLint extensions installed.
+Plagiarism or copying another student's assignment results in disqualification from the certificate.
+The bootcamp WhatsApp bot demo (this project) is the official example for the LangChain RAG + memory assignment.
+Students who miss a live session can catch up using the recording and the session's README notes.
+The bootcamp's grading rubric weighs code correctness, clean structure, and clear documentation equally.
+New cohorts of the AI Season bootcamp start roughly every three months.
